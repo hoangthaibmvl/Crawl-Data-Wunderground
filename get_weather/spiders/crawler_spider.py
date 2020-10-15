@@ -34,7 +34,6 @@ class CrawlerSpider(Spider):
             '//*[@class="observation-table ng-star-inserted"]/table[@class="mat-table cdk-table mat-sort ng-star-inserted"]/tbody/tr')
         for row in table:
             item = GetWeatherItem()
-            # item['row'] = row.extract()
             item['Time'] = row.xpath('td/span/text()')[0].extract()
             item['Temperature'] = row.xpath(
                 'td/lib-display-unit/span/span/text()')[0].extract()
