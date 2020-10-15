@@ -1,0 +1,47 @@
+Condition,Dew_Point,Humidity,Precip,Pressure,Temperature,Time,Wind,Wind_Gust,Wind_Speed
+Light Rain,77,100,0.0,29.73,77,12:30 AM,CALM,0,0
+Mostly Cloudy,77,100,0.0,29.73,77,1:00 AM,E,0,1
+Mostly Cloudy,77,100,0.0,29.73,77,1:30 AM,VAR,0,1
+Mostly Cloudy,77,100,0.0,29.73,77,2:00 AM,ENE,0,1
+Mostly Cloudy,77,100,0.0,29.73,77,2:30 AM,N,0,2
+Mostly Cloudy,77,100,0.0,29.73,77,3:00 AM,ENE,0,1
+Mostly Cloudy,77,100,0.0,29.73,77,3:30 AM,ENE,0,1
+Mostly Cloudy,77,100,0.0,29.73,77,4:00 AM,VAR,0,1
+Mostly Cloudy,77,100,0.0,29.73,77,4:30 AM,CALM,0,0
+Mostly Cloudy,77,100,0.0,29.73,77,5:00 AM,CALM,0,0
+Mostly Cloudy,77,100,0.0,29.70,77,5:30 AM,CALM,0,0
+Mostly Cloudy,77,100,0.0,29.70,77,6:00 AM,CALM,0,0
+Partly Cloudy,77,100,0.0,29.73,77,6:30 AM,CALM,0,0
+Partly Cloudy,79,100,0.0,29.73,79,7:00 AM,CALM,0,0
+Fair,79,94,0.0,29.73,81,7:30 AM,VAR,0,1
+Fair,81,94,0.0,29.76,82,8:00 AM,ESE,0,1
+Fair,79,84,0.0,29.76,84,8:30 AM,CALM,0,0
+Partly Cloudy,81,84,0.0,29.76,86,9:00 AM,VAR,0,1
+Partly Cloudy,79,79,0.0,29.76,86,9:30 AM,NW,0,2
+Mostly Cloudy,79,79,0.0,29.76,86,10:00 AM,VAR,0,2
+Mostly Cloudy,79,75,0.0,29.76,88,10:30 AM,NW,0,5
+Mostly Cloudy,79,75,0.0,29.76,88,11:00 AM,WNW,0,8
+Mostly Cloudy,79,70,0.0,29.73,90,11:30 AM,NW,0,8
+Mostly Cloudy,79,70,0.0,29.73,90,12:00 PM,WNW,0,9
+Mostly Cloudy,77,66,0.0,29.70,90,12:30 PM,WNW,0,8
+Mostly Cloudy,75,59,0.0,29.67,91,1:30 PM,WNW,0,6
+Mostly Cloudy,75,59,0.0,29.64,91,2:00 PM,NW,0,5
+Mostly Cloudy,75,59,0.0,29.64,91,2:30 PM,WNW,0,8
+Mostly Cloudy,75,56,0.0,29.61,93,3:00 PM,WNW,0,7
+Mostly Cloudy,77,59,0.0,29.61,93,3:30 PM,W,0,8
+Partly Cloudy,75,59,0.0,29.61,91,4:00 PM,WNW,0,8
+Partly Cloudy,77,70,0.0,29.64,88,4:30 PM,NW,0,13
+Partly Cloudy,77,70,0.0,29.61,88,5:00 PM,NW,0,8
+Partly Cloudy,77,70,0.0,29.64,88,5:30 PM,WNW,0,6
+Partly Cloudy,77,70,0.0,29.64,88,6:00 PM,WNW,0,5
+Mostly Cloudy,77,74,0.0,29.64,86,6:30 PM,WNW,0,8
+Mostly Cloudy,77,74,0.0,29.67,86,7:00 PM,WNW,0,5
+Mostly Cloudy,77,74,0.0,29.67,86,7:30 PM,VAR,0,3
+Mostly Cloudy,79,79,0.0,29.73,86,8:00 PM,VAR,0,3
+Mostly Cloudy,0,0,0.0,29.73,0,8:30 PM,W,0,10
+T-Storm,79,94,0.0,29.76,81,9:00 PM,SW,0,15
+T-Storm,79,100,0.0,29.76,79,9:30 PM,SW,0,8
+Light Rain,79,100,0.0,29.79,79,10:00 PM,SW,0,7
+Light Rain,79,100,0.0,29.76,79,10:30 PM,SW,0,6
+Light Rain,77,94,0.0,29.76,79,11:00 PM,SSW,0,6
+Light Rain,77,94,0.0,29.76,79,11:30 PM,SSW,0,8

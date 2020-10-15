@@ -1,0 +1,49 @@
+Condition,Dew_Point,Humidity,Precip,Pressure,Temperature,Time,Wind,Wind_Gust,Wind_Speed
+Mostly Cloudy,79,94,0.0,29.76,81,12:00 AM,NNW,0,1
+Partly Cloudy,79,94,0.0,29.76,81,12:30 AM,VAR,0,1
+Partly Cloudy,79,94,0.0,29.76,81,1:00 AM,VAR,0,1
+Partly Cloudy,79,94,0.0,29.76,81,1:30 AM,ENE,0,2
+Partly Cloudy,79,100,0.0,29.76,79,2:00 AM,CALM,0,0
+Partly Cloudy,79,94,0.0,29.73,81,2:30 AM,CALM,0,0
+Partly Cloudy,79,94,0.0,29.73,81,3:00 AM,NNW,0,1
+Partly Cloudy,77,94,0.0,29.73,79,3:30 AM,CALM,0,0
+Partly Cloudy,77,94,0.0,29.73,79,4:00 AM,CALM,0,0
+Partly Cloudy,77,94,0.0,29.76,79,4:30 AM,CALM,0,0
+Partly Cloudy,77,94,0.0,29.76,79,5:00 AM,VAR,0,1
+Partly Cloudy,77,94,0.0,29.76,79,5:30 AM,VAR,0,1
+Partly Cloudy,77,94,0.0,29.76,79,6:00 AM,NE,0,2
+Partly Cloudy,79,94,0.0,29.76,81,6:30 AM,ENE,0,2
+Fair,81,94,0.0,29.79,82,7:00 AM,CALM,0,0
+Fair,79,89,0.0,29.79,82,7:30 AM,VAR,0,2
+Fair,81,89,0.0,29.79,84,8:00 AM,VAR,0,3
+Partly Cloudy,81,89,0.0,29.79,84,8:30 AM,WSW,0,5
+Partly Cloudy,79,79,0.0,29.79,86,9:00 AM,VAR,0,3
+Mostly Cloudy,79,79,0.0,29.79,86,9:30 AM,W,0,3
+Mostly Cloudy,77,70,0.0,29.79,88,10:00 AM,VAR,0,6
+Mostly Cloudy,79,70,0.0,29.79,90,10:30 AM,W,0,5
+Mostly Cloudy,79,66,0.0,29.76,91,11:00 AM,WNW,0,5
+Mostly Cloudy,77,63,0.0,29.76,91,11:30 AM,W,0,5
+Mostly Cloudy,75,59,0.0,29.76,91,12:00 PM,VAR,0,2
+Mostly Cloudy,73,52,0.0,29.73,93,12:30 PM,VAR,0,3
+Mostly Cloudy,73,55,0.0,29.73,91,1:00 PM,VAR,0,2
+Light Rain Shower,75,62,0.0,29.70,90,1:30 PM,VAR,0,1
+T-Storm,75,84,0.0,29.73,81,2:00 PM,W,0,17
+Mostly Cloudy,77,84,0.0,29.67,82,2:30 PM,W,0,6
+Partly Cloudy,79,75,0.0,29.67,88,3:00 PM,VAR,0,3
+Partly Cloudy,79,66,0.0,29.67,91,3:30 PM,W,0,6
+Partly Cloudy,73,52,0.0,29.67,93,4:00 PM,VAR,0,2
+Partly Cloudy,75,56,0.0,29.67,93,4:30 PM,VAR,0,1
+Partly Cloudy,77,66,0.0,29.67,90,5:00 PM,W,0,5
+Light Rain with Thunder,79,75,0.0,29.70,88,5:30 PM,SW,0,12
+T-Storm,79,89,0.0,29.73,82,6:00 PM,ESE,0,14
+Light Rain with Thunder,77,94,0.0,29.76,79,6:30 PM,ENE,0,10
+Light Rain with Thunder,77,94,0.0,29.76,79,7:00 PM,VAR,0,3
+Light Rain,77,94,0.0,29.76,79,7:30 PM,NW,0,2
+Mostly Cloudy,77,94,0.0,29.79,79,8:00 PM,WNW,0,7
+Light Rain with Thunder,77,100,0.0,29.79,77,8:30 PM,W,0,5
+Light Rain,77,94,0.0,29.82,79,9:00 PM,VAR,0,2
+Thunder in the Vicinity,77,100,0.0,29.85,77,9:30 PM,NNW,0,7
+Thunder in the Vicinity,77,94,0.0,29.85,79,10:00 PM,VAR,0,2
+Mostly Cloudy,77,94,0.0,29.82,79,10:30 PM,VAR,0,2
+Light Rain Shower,77,94,0.0,29.82,79,11:00 PM,VAR,0,1
+Mostly Cloudy,77,94,0.0,29.82,79,11:30 PM,NNW,0,3

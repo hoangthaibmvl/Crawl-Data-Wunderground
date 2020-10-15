@@ -1,0 +1,48 @@
+Condition,Dew_Point,Humidity,Precip,Pressure,Temperature,Time,Wind,Wind_Gust,Wind_Speed
+Partly Cloudy,77,89,0.0,29.76,81,12:00 AM,WSW,0,6
+Partly Cloudy,75,89,0.0,29.76,79,12:30 AM,WSW,0,8
+Partly Cloudy,75,89,0.0,29.73,79,1:00 AM,SW,0,6
+Partly Cloudy,77,94,0.0,29.73,79,1:30 AM,WSW,0,7
+Partly Cloudy,77,94,0.0,29.70,79,2:00 AM,W,0,6
+Partly Cloudy,77,94,0.0,29.70,79,2:30 AM,W,0,3
+Partly Cloudy,77,94,0.0,29.70,79,3:00 AM,W,0,2
+Partly Cloudy,77,100,0.0,29.70,77,3:30 AM,W,0,5
+Partly Cloudy,77,100,0.0,29.70,77,4:00 AM,W,0,3
+Partly Cloudy,77,100,0.0,29.70,77,4:30 AM,VAR,0,2
+Partly Cloudy,77,100,0.0,29.70,77,5:00 AM,SW,0,5
+Partly Cloudy,77,100,0.0,29.70,77,5:30 AM,VAR,0,1
+Partly Cloudy,77,100,0.0,29.70,77,6:00 AM,WNW,0,2
+Partly Cloudy,77,94,0.0,29.73,79,6:30 AM,WNW,0,2
+Partly Cloudy,77,94,0.0,29.73,79,7:00 AM,W,0,3
+Partly Cloudy,79,94,0.0,29.73,81,7:30 AM,W,0,5
+Mostly Cloudy,79,89,0.0,29.76,82,8:00 AM,W,0,7
+Mostly Cloudy,79,89,0.0,29.76,82,8:30 AM,VAR,0,3
+Mostly Cloudy,79,84,0.0,29.76,84,9:00 AM,W,0,6
+Mostly Cloudy,77,79,0.0,29.76,84,9:30 AM,WNW,0,8
+Mostly Cloudy,77,74,0.0,29.76,86,10:00 AM,WNW,0,8
+Mostly Cloudy,75,74,0.0,29.76,84,10:30 AM,W,0,10
+Mostly Cloudy,77,70,0.0,29.73,88,11:00 AM,W,0,9
+Mostly Cloudy,75,62,0.0,29.73,90,11:30 AM,WNW,0,9
+Mostly Cloudy,75,62,0.0,29.70,90,12:00 PM,WNW,0,12
+Mostly Cloudy,77,66,0.0,29.70,90,12:30 PM,WNW,0,10
+Mostly Cloudy,75,62,0.0,29.67,90,1:00 PM,WNW,0,9
+Partly Cloudy,75,59,0.0,29.67,91,1:30 PM,WNW,0,9
+Mostly Cloudy,75,59,0.0,29.67,91,2:00 PM,WNW,0,10
+Mostly Cloudy,75,62,0.0,29.64,90,2:30 PM,W,0,9
+Mostly Cloudy,75,62,0.0,29.64,90,3:00 PM,W,0,10
+Partly Cloudy,75,62,0.0,29.64,90,3:30 PM,W,0,9
+Fair,75,62,0.0,29.61,90,4:00 PM,W,0,12
+Fair,75,62,0.0,29.61,90,4:30 PM,W,0,10
+Fair,75,66,0.0,29.64,88,5:00 PM,W,0,8
+Partly Cloudy,75,66,0.0,29.64,88,5:30 PM,W,0,7
+Partly Cloudy,77,74,0.0,29.64,86,6:00 PM,W,0,9
+Partly Cloudy,75,74,0.0,29.67,84,6:30 PM,W,0,14
+Partly Cloudy,75,74,0.0,29.67,84,7:00 PM,W,0,12
+Partly Cloudy,77,84,0.0,29.70,82,7:30 PM,W,0,9
+Partly Cloudy,77,84,0.0,29.70,82,8:00 PM,W,0,8
+Fair,77,84,0.0,29.70,82,8:30 PM,WSW,0,7
+Fair,77,84,0.0,29.70,82,9:00 PM,W,0,5
+Fair,77,84,0.0,29.73,82,9:30 PM,W,0,8
+Fair,0,0,0.0,0.00,0,10:00 PM,WSW,0,10
+Partly Cloudy,79,94,0.0,29.70,81,11:00 PM,W,0,8
+Partly Cloudy,79,94,0.0,29.70,81,11:30 PM,W,0,7
