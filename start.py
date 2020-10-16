@@ -13,16 +13,16 @@ def process(date, year):
 
 
 if __name__ == '__main__':
-    pool = multiprocessing.Pool(2)
+    pool = multiprocessing.Pool(4)
     year = int(sys.argv[1])
     dates = []
-    max_apply_size = 3
-    for x in range(1, 2):
-        for y in range(1, 31):
+    max_apply_size = 2
+    for x in range(1, 13):
+        for y in range(1, 32):
             dates.append("%d-%d-%d" % (year, x, y))
     for date in dates:
         pool.apply_async(process, args=(date, year,))
-        while pool._taskqueue.qsize() > max_apply_size:
-            time.sleep(3)
+        while pool._taskqueue.qsize() > 3:
+            time.sleep(20)
     pool.close()
     pool.join()
