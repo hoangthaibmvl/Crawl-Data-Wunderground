@@ -2,4 +2,4 @@
 
 Seleum + Scrapy + Multithreading 
 
-A Projetc By Hoang Thai @ 2020
+A Project By Hoang Thai @ 2020
